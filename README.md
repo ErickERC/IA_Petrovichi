@@ -4,7 +4,10 @@ Repositorio para integración de BehaviorTree.CPP, ROS 2 y PlanSys2.
 
 ## Estructura del proyecto
 
-- `behavior_tree.cpp/`: Tutoriales de BehaviorTree.CPP
-- `ros2/`: Tutoriales de ROS 2
-- `plansys2/`: Tutoriales de PlanSys2
-- `integrated_project/`: Proyecto integrado (futuro)
+- `BTs_Tutorials/`: Tutoriales de BehaviorTree.CPP
+- `ROS2_Tutorials/`: Tutoriales de ROS 2
+- `Plansys2_Tutorials/`: Tutoriales de PlanSys2
+
+## Links externos
+
+- [Diagrama del arbol de comportamiento](https://drive.google.com/file/d/19uUNThJlNybwPAOuNeGL6d7r_cYQ049H/view?usp=sharing)
